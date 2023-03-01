@@ -1,0 +1,8 @@
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\bin\Debug\BuilderStructural.exe.config
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\bin\Debug\BuilderStructural.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\bin\Debug\BuilderStructural.pdb
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\obj\Debug\BuilderStructural.csproj.AssemblyReference.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\obj\Debug\BuilderStructural.csproj.SuggestedBindingRedirects.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\obj\Debug\BuilderStructural.csproj.CoreCompileInputs.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\obj\Debug\BuilderStructural.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\BuilderStructural\obj\Debug\BuilderStructural.pdb

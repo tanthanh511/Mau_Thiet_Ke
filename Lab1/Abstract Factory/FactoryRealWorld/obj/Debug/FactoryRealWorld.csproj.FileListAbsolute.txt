@@ -1,0 +1,8 @@
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\bin\Debug\FactoryRealWorld.exe.config
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\bin\Debug\FactoryRealWorld.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\bin\Debug\FactoryRealWorld.pdb
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\obj\Debug\FactoryRealWorld.csproj.AssemblyReference.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\obj\Debug\FactoryRealWorld.csproj.SuggestedBindingRedirects.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\obj\Debug\FactoryRealWorld.csproj.CoreCompileInputs.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\obj\Debug\FactoryRealWorld.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\FactoryRealWorld\obj\Debug\FactoryRealWorld.pdb

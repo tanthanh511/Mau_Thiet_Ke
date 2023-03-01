@@ -1,0 +1,8 @@
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\bin\Debug\SingletonRealWorld.exe.config
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\bin\Debug\SingletonRealWorld.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\bin\Debug\SingletonRealWorld.pdb
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\obj\Debug\SingletonRealWorld.csproj.AssemblyReference.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\obj\Debug\SingletonRealWorld.csproj.SuggestedBindingRedirects.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\obj\Debug\SingletonRealWorld.csproj.CoreCompileInputs.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\obj\Debug\SingletonRealWorld.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\SingletonRealWorld\obj\Debug\SingletonRealWorld.pdb

@@ -1,0 +1,8 @@
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\obj\Debug\PrototypeStructural.csproj.AssemblyReference.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\obj\Debug\PrototypeStructural.csproj.SuggestedBindingRedirects.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\obj\Debug\PrototypeStructural.csproj.CoreCompileInputs.cache
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\bin\Debug\PrototypeStructural.exe.config
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\bin\Debug\PrototypeStructural.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\bin\Debug\PrototypeStructural.pdb
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\obj\Debug\PrototypeStructural.exe
+D:\thiet_ke_mau\TH\Lab1\Abstract Factory\PrototypeStructural\obj\Debug\PrototypeStructural.pdb
